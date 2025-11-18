@@ -11,8 +11,15 @@ Passionate about **computer science**, **electronics**, and **mechanics**.
 ---
 
 ## 📫 Contacts
-- 🌐 Linktree: *coming soon*  
-- 📧 Email: *coming soon*
+
+<p align="left">
+
+[![Linktree](https://img.shields.io/badge/Linktree-000000?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/salvo_xsm)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salvo.server12@gmail.com)
+
+</p>
+
 
 ---
 
